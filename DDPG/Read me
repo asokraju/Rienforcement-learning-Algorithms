@@ -1,0 +1,8 @@
+Implementation of DDPG - Deep Deterministic Policy Gradient
+Algorithm and hyperparameter details can be found here: http://arxiv.org/pdf/1509.02971v2.pdf
+
+The algorithm is tested on the Pendulum-v0 OpenAI gym task and developed with Tensorflow 2.0.
+
+Author: Krishna Chaitanya Kosaraju
+
+I followed closely the code of https://github.com/pemami4911/deep-rl/blob/master/ddpg/ddpg.py (which uses TF 1.x and TFlearn)
